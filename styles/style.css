@@ -201,7 +201,7 @@ p {
 }
 
 .events__title {
-  font-size: 42px;
+  font-size: 44px;
   font-weight: 500;
   line-height: 52px;
   margin: 32px 0 0;
@@ -278,8 +278,8 @@ p {
 }
 
 .person_name_mitchell {
-  bottom: 142px;
-  left: 82px;
+  bottom: 82px;
+  left: 142px;
 }
 
 .person_name_tarter {
@@ -315,5 +315,4 @@ p {
   margin: 0;
   line-height: 1.2;
   color: #000000;
-  margin-bottom: 8px;
 }
