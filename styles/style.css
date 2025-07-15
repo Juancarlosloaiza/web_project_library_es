@@ -367,7 +367,7 @@ p {
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: white;
-  padding: 80px 60px 60px 60px;
+  padding: 60px 80px;
 }
 
 .footer__columns {
@@ -379,15 +379,11 @@ p {
 }
 
 .footer__column_content_hours {
-  flex: 1;
-  text-align: right;
-  padding-right: 60px;
-  margin-left: 40px;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
-  max-width: 200px;
-  margin-left: 0;
+  margin-left: 80;
 }
 
 .footer__logo {
@@ -400,7 +396,6 @@ p {
   font-size: 20px;
   font-weight: bold;
   margin-bottom: 20px;
-  text-align: right;
 }
 
 .footer__list {
@@ -431,5 +426,5 @@ p {
 .footer__copyright {
   font-size: 14px;
   color: #cccccc;
-  margin-top: 20px;
+  margin-top: 100px;
 }
