@@ -367,9 +367,7 @@ p {
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: white;
-  padding-top: 80px;
-  padding-right: 60px;
-  padding-left: 60px;
+  padding: 80px 60px 60px 60px;
 }
 
 .footer__columns {
@@ -384,7 +382,7 @@ p {
   flex: 1;
   text-align: right;
   padding-right: 60px;
-  margin-left: 0;
+  margin-left: 40px;
 }
 
 .footer__column_content_social {
@@ -421,7 +419,7 @@ p {
   display: flex;
   align-items: center;
   font-size: 16px;
-  column-gap: 0;
+  gap: 10px;
 }
 
 .footer__social-icon {
@@ -433,5 +431,5 @@ p {
 .footer__copyright {
   font-size: 14px;
   color: #cccccc;
-  margin-top: 0;
+  margin-top: 20px;
 }
